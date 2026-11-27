@@ -13,3 +13,7 @@
 !AGENTS.md
 /fceux-am
 /nvboard
+!/NJU_lab1/*
+!/NJU_lab2/*
+NJU_lab1/build/
+NJU_lab2/build/
